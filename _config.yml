@@ -1,3 +1,4 @@
 name: Jakkub Justin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: "jakubjustin.github.io"
