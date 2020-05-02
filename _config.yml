@@ -11,10 +11,26 @@
 title: Jakub Justin
 email: dzkub@icloud.com
 description: Personal website and blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+author: Jakub Justin
+baseurl: ""
+url: ""
+github_username:  jakubjustin
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+# Create a "tags" index page and make tags on each post clickable
+link-tags: true
+
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
 # Build settings
 
