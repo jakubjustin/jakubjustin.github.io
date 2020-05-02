@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 250, 250);
+}
+
+.landing {
+    overflow: none;
+}
+
+/* nav {
+
+}
+
+main {
+
+}
+ */
+
+ h1 {
+     font-family: 'Roboto', sans-serif;
+     font: 400;
+ }
