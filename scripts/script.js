@@ -1,4 +1,5 @@
 // When the user scrolls the page, execute myFunction
+window.onload = function() {myFunction()};
 window.onscroll = function() {myFunction()};
 
 function myFunction() {
