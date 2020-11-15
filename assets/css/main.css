@@ -27,7 +27,10 @@ main {
 
   /* The progress bar (scroll indicator) */
   .progress-bar {
+    position: fixed;
+    top: 0;
+    z-index: 1;
     height: 8px;
-    background: #4caf50;
+    background: #148ace;
     width: 0%;
   }
